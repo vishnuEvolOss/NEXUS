@@ -24,6 +24,12 @@
 
 🧑‍💻 GitHub Workflow with branches, PRs, and merges
 
+
+
+<img width="1819" height="882" alt="image" src="https://github.com/user-attachments/assets/3025ae8d-9cfb-4e5b-9252-1d5dcb47d227" />
+
+
+
 🛠️ Tech Stack
 
 Frontend: React, Tailwind CSS, DaisyUI, Zustand
